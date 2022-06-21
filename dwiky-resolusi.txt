@@ -1,0 +1,5 @@
+Dwiky Resolusi 2022
+-paham dan dapat mengimplementasikan bahasa html,php,javascript
+-paham dan dapat mengimplementasikan framework bootstrap dan laravel
+-paham dan dapat mengimplementasikan database mysqli
+-menyelesaikan project yang diberikan bapak
