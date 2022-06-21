@@ -3,3 +3,4 @@ Dwiky Resolusi 2022
 -paham dan dapat mengimplementasikan framework bootstrap dan laravel
 -paham dan dapat mengimplementasikan database mysqli
 -menyelesaikan project yang diberikan bapak
+-bergabung dengan perusahaan IT
